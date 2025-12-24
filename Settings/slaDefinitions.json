@@ -1,5 +1,21 @@
 [
     {
+        "name": "projects/project/locations/location/instances/instance/slaDefinitions/2",
+        "id": 2,
+        "slaType": "AlertRuleGenerator",
+        "alertType": "AllAlerts",
+        "slaTypeValue": "",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Minutes",
+        "criticalSlaPeriod": 3.0,
+        "criticalSlaPeriodTimeUnit": "Minutes",
+        "environments": [
+            "G, H",
+            "G",
+            "H"
+        ]
+    },
+    {
         "name": "projects/project/locations/location/instances/instance/slaDefinitions/1",
         "id": 1,
         "slaType": "AlertRuleGenerator",
