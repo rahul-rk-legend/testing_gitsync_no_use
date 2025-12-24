@@ -16,7 +16,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "17b2855c-8dda-478d-b35b-18be7a9d0feb",
     "creationTimeUnixTimeInMs": 1766495668837,
-    "modificationTimeUnixTimeInMs": 1766495903554,
+    "modificationTimeUnixTimeInMs": 1766558736032,
     "trigger": {
         "id": 0,
         "identifier": "23742386-dfa9-44d1-a581-e2c1dd06907e",
@@ -31,6 +31,121 @@
         ]
     },
     "steps": [
+        {
+            "parallelActions": [],
+            "identifier": "106ffd60-5787-49f8-a191-fb7435449cc4",
+            "originalStepIdentifier": "106ffd60-5787-49f8-a191-fb7435449cc4",
+            "isAutomatic": true,
+            "isSkippable": false,
+            "instanceName": "New Block_1",
+            "name": "New Block",
+            "integration": "Siemplify",
+            "description": "An embedded workflow that can receive inputs and return an output.",
+            "actionProvider": "Flow",
+            "actionName": "NestedAction",
+            "type": 5,
+            "parameters": [
+                {
+                    "name": "AssignedUsers",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "HasApprovalLink",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "MessageToAssignee",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "NestedWorkflowIdentifier",
+                    "value": "ad6dd775-ed51-41c7-8cef-75ece29f30c6",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "NestedWorkflowInputs",
+                    "value": "[]",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "PendingActionTimeout",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "NestedWorkflowSteps",
+                    "value": "[{\"identifier\":\"3da25185-41bc-46d6-9a36-bd3299b86582\",\"integration\":\"Siemplify\",\"actionName\":\"Siemplify_Get Case Details\",\"instanceName\":\"Siemplify_Get Case Details_1\",\"stepType\":0}]",
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                },
+                {
+                    "name": "NestedWorkflowOutput",
+                    "value": null,
+                    "type": null,
+                    "isMandatory": false,
+                    "defaultValue": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "additionalProperties": {}
+                }
+            ],
+            "autoSkipOnFailure": false,
+            "isDebugMockData": false,
+            "debugData": null,
+            "parentStepContainerId": null,
+            "workflowIdentifier": "17b2855c-8dda-478d-b35b-18be7a9d0feb",
+            "isTouchedByAi": false,
+            "startLoopStepIdentifier": null,
+            "id": 0,
+            "creationTimeUnixTimeInMs": 1766558736032,
+            "modificationTimeUnixTimeInMs": 1766558736032,
+            "additionalProperties": {}
+        },
         {
             "parallelActions": [],
             "identifier": "6277a6a7-29c2-4d12-9f73-dbd58bb22365",
@@ -176,8 +291,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766495903505,
-            "modificationTimeUnixTimeInMs": 1766495903554,
+            "creationTimeUnixTimeInMs": 1766558735980,
+            "modificationTimeUnixTimeInMs": 1766558736032,
             "additionalProperties": {}
         },
         {
@@ -325,8 +440,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766495903505,
-            "modificationTimeUnixTimeInMs": 1766495903554,
+            "creationTimeUnixTimeInMs": 1766558735980,
+            "modificationTimeUnixTimeInMs": 1766558736032,
             "additionalProperties": {}
         },
         {
@@ -429,8 +544,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766495903505,
-            "modificationTimeUnixTimeInMs": 1766495903554,
+            "creationTimeUnixTimeInMs": 1766558735980,
+            "modificationTimeUnixTimeInMs": 1766558736032,
             "additionalProperties": {}
         },
         {
@@ -522,8 +637,8 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766495903505,
-            "modificationTimeUnixTimeInMs": 1766495903554,
+            "creationTimeUnixTimeInMs": 1766558735980,
+            "modificationTimeUnixTimeInMs": 1766558736032,
             "additionalProperties": {}
         },
         {
@@ -671,12 +786,18 @@
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1766495903505,
-            "modificationTimeUnixTimeInMs": 1766495903554,
+            "creationTimeUnixTimeInMs": 1766558735980,
+            "modificationTimeUnixTimeInMs": 1766558736032,
             "additionalProperties": {}
         }
     ],
     "stepsRelations": [
+        {
+            "condition": "",
+            "fromStep": "78aacabc-360f-4cbf-a708-f280462da0a5",
+            "toStep": "106ffd60-5787-49f8-a191-fb7435449cc4",
+            "destinationActionStatus": 0
+        },
         {
             "condition": "1",
             "fromStep": "7c3596af-f5b4-4d9f-b0e1-0b780ad857e4",

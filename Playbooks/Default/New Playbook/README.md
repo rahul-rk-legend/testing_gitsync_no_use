@@ -32,3 +32,7 @@
 |Siemplify_Get Case Details_1|This action will get all the data from a case and return a JSON result.  The result includes comments, entity information, insights, playbooks that ran, alert information and events.|Siemplify|Get Case Details|
 |Siemplify_Get Case Details_2|This action will get all the data from a case and return a JSON result.  The result includes comments, entity information, insights, playbooks that ran, alert information and events.|Siemplify|Get Case Details|
 
+### Involved Blocks
+|Name|Description|
+|----|-----------|
+|New Block|An embedded workflow that can receive inputs and return an output.|
