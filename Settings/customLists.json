@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "projects/project/locations/location/instances/instance/customLists/1",
+        "category": "Domain",
+        "entityIdentifier": "Testing",
+        "environments": "[\"B\",\"A\"]"
+    }
+]
