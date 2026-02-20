@@ -1,0 +1,18 @@
+[
+    {
+        "alias": "projects/project/locations/location/instances/instance/soarDomains/2",
+        "id": 2,
+        "domain": "Testing 1",
+        "environments": "[\"*\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    },
+    {
+        "alias": "projects/project/locations/location/instances/instance/soarDomains/1",
+        "id": 1,
+        "domain": "Testing",
+        "environments": "[\"C\",\"A\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    }
+]
