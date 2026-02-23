@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "entityIdentifier": "Testing",
+        "entityType": "ThreatActor",
+        "elementType": 0,
+        "scope": 2,
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "id": 2,
+        "entityIdentifier": "Testing 1",
+        "entityType": "APPLICATION",
+        "elementType": 0,
+        "scope": 3,
+        "environments": [
+            "C",
+            "A"
+        ]
+    }
+]
