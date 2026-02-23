@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Testing Dynamic 1",
+        "type": 0,
+        "defaultValue": "Testing Dynamic 1",
+        "optionalValues": []
+    },
+    {
+        "id": 2,
+        "name": "Testing Dynamic 2",
+        "type": 1,
+        "defaultValue": "Testing Dynamic 2",
+        "optionalValues": [
+            "Testing Dynamic 1",
+            "Testing Dynamic 2"
+        ]
+    }
+]
