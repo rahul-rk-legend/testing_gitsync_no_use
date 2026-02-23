@@ -1,0 +1,14 @@
+[
+    {
+        "entityIdentifier": "Testing",
+        "category": "Domain",
+        "forDBMigration": false,
+        "environments": [
+            "B",
+            "A"
+        ],
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1771590534812,
+        "modificationTimeUnixTimeInMs": 1771590534812
+    }
+]
