@@ -1,0 +1,14 @@
+[
+    {
+        "address": "192.168.0.1/16",
+        "name": "Testing",
+        "priority": 2,
+        "environments": [
+            "C",
+            "B"
+        ],
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1771590416193,
+        "modificationTimeUnixTimeInMs": 1771590416193
+    }
+]
