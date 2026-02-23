@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Triage",
+        "order": 1,
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1771575122262,
+        "modificationTimeUnixTimeInMs": 1771575122262
+    },
+    {
+        "name": "Assessment",
+        "order": 2,
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1771575122262,
+        "modificationTimeUnixTimeInMs": 1771575122262
+    },
+    {
+        "name": "Investigation",
+        "order": 3,
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1771575122262,
+        "modificationTimeUnixTimeInMs": 1771575122262
+    },
+    {
+        "name": "Incident",
+        "order": 4,
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1771575122262,
+        "modificationTimeUnixTimeInMs": 1771575122262
+    },
+    {
+        "name": "Improvement",
+        "order": 5,
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1771575122262,
+        "modificationTimeUnixTimeInMs": 1771575122262
+    },
+    {
+        "name": "Research",
+        "order": 6,
+        "id": 6,
+        "creationTimeUnixTimeInMs": 1771575122262,
+        "modificationTimeUnixTimeInMs": 1771575122262
+    },
+    {
+        "name": "Testing 1",
+        "order": 8,
+        "id": 7,
+        "creationTimeUnixTimeInMs": 1771589957489,
+        "modificationTimeUnixTimeInMs": 1771589957489
+    }
+]
