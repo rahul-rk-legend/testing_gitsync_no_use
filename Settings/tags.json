@@ -1,0 +1,28 @@
+[
+    {
+        "value": "Windows:AccessDisabledAccounts",
+        "name": "Tag 1",
+        "propertyName": "",
+        "priority": 1,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 1,
+        "compareType": 2,
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1771589794147,
+        "modificationTimeUnixTimeInMs": 1771589794147
+    },
+    {
+        "value": "Phishing email detector",
+        "name": "Tag 2",
+        "propertyName": "",
+        "priority": 1,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 0,
+        "compareType": 2,
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1771589854916,
+        "modificationTimeUnixTimeInMs": 1771589854916
+    }
+]
