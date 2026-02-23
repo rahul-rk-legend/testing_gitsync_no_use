@@ -1,0 +1,23 @@
+[
+    {
+        "alias": null,
+        "id": 1,
+        "domain": "Testing",
+        "environments": [
+            "C",
+            "A"
+        ],
+        "creationTimeUnixTimeInMs": 1771590467083,
+        "modificationTimeUnixTimeInMs": 1771590467083
+    },
+    {
+        "alias": null,
+        "id": 2,
+        "domain": "Testing 1",
+        "environments": [
+            "*"
+        ],
+        "creationTimeUnixTimeInMs": 1771590473858,
+        "modificationTimeUnixTimeInMs": 1771590473858
+    }
+]
