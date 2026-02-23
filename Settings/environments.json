@@ -1,0 +1,142 @@
+[
+    {
+        "id": 0,
+        "name": "A",
+        "description": "A",
+        "contactName": "A",
+        "contactEmails": "a@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "1234567890",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Testing Dynamic 1",
+                "dynamicParameterId": 1,
+                "environmentId": 2
+            },
+            {
+                "value": "Testing Dynamic 2",
+                "dynamicParameterId": 2,
+                "environmentId": 2
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "B",
+        "description": "B",
+        "contactName": "B",
+        "contactEmails": "b@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "1234567890",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Testing Dynamic 1",
+                "dynamicParameterId": 1,
+                "environmentId": 3
+            },
+            {
+                "value": "Testing Dynamic 2",
+                "dynamicParameterId": 2,
+                "environmentId": 3
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "C",
+        "description": "C",
+        "contactName": "C",
+        "contactEmails": "c@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "1234567890",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Testing Dynamic 1",
+                "dynamicParameterId": 1,
+                "environmentId": 4
+            },
+            {
+                "value": "Testing Dynamic 2",
+                "dynamicParameterId": 2,
+                "environmentId": 4
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "Default Environment",
+        "description": "Default Environment",
+        "contactName": null,
+        "contactEmails": "",
+        "contactEmailsList": null,
+        "contactPhone": null,
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": null,
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Testing Dynamic 1",
+                "dynamicParameterId": 1,
+                "environmentId": 1
+            },
+            {
+                "value": "Testing Dynamic 2",
+                "dynamicParameterId": 2,
+                "environmentId": 1
+            }
+        ],
+        "properties": {},
+        "isSystem": true,
+        "aliases": [],
+        "instanceUrl": null,
+        "dataAccessScopes": []
+    }
+]
