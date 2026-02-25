@@ -25,3 +25,4 @@ An embedded workflow that can receive inputs and return an output.
 |Siemplify_Case Comment_1|Add a comment to the case the current alert has been grouped to|Siemplify|Case Comment|
 |Siemplify_Case Comment_2|Add a comment to the case the current alert has been grouped to|Siemplify|Case Comment|
 
+adding a read me on

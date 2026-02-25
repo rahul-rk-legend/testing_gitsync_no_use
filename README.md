@@ -20,8 +20,10 @@
 |----|-----------|
 |New Block|An embedded workflow that can receive inputs and return an output.|
 |New Playbook||
+|Push Playbook Block 1|An embedded workflow that can receive inputs and return an output.|
 |New Block 2|An embedded workflow that can receive inputs and return an output.|
 |New Playbook 1||
+|Push Playbook 1||
 
 
 ## Visual Families

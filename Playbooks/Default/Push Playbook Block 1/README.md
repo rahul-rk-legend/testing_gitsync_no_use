@@ -1,5 +1,5 @@
-# New Playbook
-
+# Push Playbook Block 1
+An embedded workflow that can receive inputs and return an output.
 
 
 
@@ -7,22 +7,16 @@
 
 **Version:** 1
 
-**Type:** Playbook
+**Type:** Block
 
 **Priority:** 2
 
 **Playbook Simulator:** False
 
 
-### Playbook Trigger
-**Trigger Type:** All
-
-**Conditions Operator:** And
-
-##### Conditions
-|Key|Operator|Value|
-|---|--------|-----|
-||Equals||
+##### Input Parameters
+|Name|Default Value|
+|----|-------------|
 
 
 ### Involved Steps (Unordered)

@@ -4,7 +4,14 @@
         "Integration": {},
         "Mappings": {},
         "Visual Family": {},
-        "Playbook": {},
+        "Playbook": {
+            "New Block": "adding a read me on",
+            "New Block 2": "adding a read me on",
+            "New Playbook": "adding a read me on",
+            "New Playbook 1": "adding a read me on",
+            "Push Playbook 1": "adding a read me on",
+            "Push Playbook Block 1": "adding a read me on"
+        },
         "Connector": {},
         "Job": {}
     },
