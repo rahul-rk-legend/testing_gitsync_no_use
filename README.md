@@ -25,6 +25,7 @@
 |New Block 2|An embedded workflow that can receive inputs and return an output.|
 |New Playbook 1||
 |Push Playbook 1||
+|New Playbook||
 
 
 ## Visual Families

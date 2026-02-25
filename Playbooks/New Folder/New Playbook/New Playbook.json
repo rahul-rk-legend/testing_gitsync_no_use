@@ -1,10 +1,10 @@
 {
     "id": 0,
-    "identifier": "8d62a3a5-70cc-492d-a498-66f483a3b88a",
+    "identifier": "217c8ad1-50b0-427f-adaa-443abac3fde3",
     "version": "1",
     "isEnabled": true,
     "isDebugMode": false,
-    "name": "New Playbook ng",
+    "name": "New Playbook",
     "creator": "f79d9ae5-999f-4269-b516-1df629c56ba6",
     "modifiedBy": "f79d9ae5-999f-4269-b516-1df629c56ba6",
     "priority": 2,
@@ -13,14 +13,14 @@
     "environments": [
         "*"
     ],
-    "categoryName": "Default",
-    "categoryId": 1,
-    "originalPlaybookIdentifier": "8d62a3a5-70cc-492d-a498-66f483a3b88a",
-    "creationTimeUnixTimeInMs": 1772026222601,
-    "modificationTimeUnixTimeInMs": 1772026222601,
+    "categoryName": "New Folder",
+    "categoryId": 2,
+    "originalPlaybookIdentifier": "217c8ad1-50b0-427f-adaa-443abac3fde3",
+    "creationTimeUnixTimeInMs": 1772026024064,
+    "modificationTimeUnixTimeInMs": 1772026459787,
     "trigger": {
         "id": 0,
-        "identifier": "89423e9b-92f7-4999-9b06-d2cdc9193ee1",
+        "identifier": "131df813-db85-48ab-af97-1f62aa608a53",
         "type": 8,
         "logicalOperator": 0,
         "conditions": [
@@ -38,8 +38,8 @@
     "steps": [
         {
             "parallelActions": [],
-            "identifier": "10accecb-eafd-4af7-94c0-5dbdd954312a",
-            "originalStepIdentifier": "10accecb-eafd-4af7-94c0-5dbdd954312a",
+            "identifier": "c8845682-fa7d-49e1-bb3b-4ff073b60186",
+            "originalStepIdentifier": "c8845682-fa7d-49e1-bb3b-4ff073b60186",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "New Block_1",
@@ -154,19 +154,19 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "8d62a3a5-70cc-492d-a498-66f483a3b88a",
+            "workflowIdentifier": "217c8ad1-50b0-427f-adaa-443abac3fde3",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1772026222601,
+            "creationTimeUnixTimeInMs": 1772026040517,
             "modificationTimeUnixTimeInMs": 1772026427370,
             "additionalProperties": {}
         },
         {
             "parallelActions": [],
-            "identifier": "42dc37f0-b571-492d-ac74-ec1f01f3c57a",
-            "originalStepIdentifier": "42dc37f0-b571-492d-ac74-ec1f01f3c57a",
+            "identifier": "f984d2d8-2ef0-4b11-9190-bcf9d46dd686",
+            "originalStepIdentifier": "f984d2d8-2ef0-4b11-9190-bcf9d46dd686",
             "isAutomatic": true,
             "isSkippable": false,
             "instanceName": "Siemplify_Case Comment_1",
@@ -290,7 +290,7 @@
                 },
                 {
                     "name": "ScriptParametersEntityFields",
-                    "value": "{\"Comment\":\"sd\"}",
+                    "value": "{\"Comment\":\"xc\"}",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -326,21 +326,21 @@
             "isDebugMockData": false,
             "debugData": null,
             "parentStepContainerId": null,
-            "workflowIdentifier": "8d62a3a5-70cc-492d-a498-66f483a3b88a",
+            "workflowIdentifier": "217c8ad1-50b0-427f-adaa-443abac3fde3",
             "isTouchedByAi": false,
             "startLoopStepIdentifier": null,
             "logsExplorerUrl": null,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1772026222601,
-            "modificationTimeUnixTimeInMs": 1772026222601,
+            "creationTimeUnixTimeInMs": 1772026040597,
+            "modificationTimeUnixTimeInMs": 1772026040597,
             "additionalProperties": {}
         }
     ],
     "stepsRelations": [
         {
             "condition": "",
-            "fromStep": "42dc37f0-b571-492d-ac74-ec1f01f3c57a",
-            "toStep": "10accecb-eafd-4af7-94c0-5dbdd954312a",
+            "fromStep": "c8845682-fa7d-49e1-bb3b-4ff073b60186",
+            "toStep": "f984d2d8-2ef0-4b11-9190-bcf9d46dd686",
             "destinationActionStatus": 0
         }
     ],
