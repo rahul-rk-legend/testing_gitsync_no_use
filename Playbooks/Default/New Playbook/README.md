@@ -30,4 +30,8 @@
 |---------|-----------|-----------|---------------|
 |Siemplify_Case Comment_1|Add a comment to the case the current alert has been grouped to|Siemplify|Case Comment|
 
+### Involved Blocks
+|Name|Description|
+|----|-----------|
+|New Block|An embedded workflow that can receive inputs and return an output.|
 adding a read me on
