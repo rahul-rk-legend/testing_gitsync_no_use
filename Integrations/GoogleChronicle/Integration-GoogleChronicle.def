@@ -19,8 +19,8 @@
             "IsMandatory": true,
             "Value": "https://{instance}.chronicle.security",
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1771575192298,
-            "ModificationTimeUnixTimeInMs": 1771575192298
+            "CreationTimeUnixTimeInMs": 1772020777060,
+            "ModificationTimeUnixTimeInMs": 1772020777060
         },
         {
             "IntegrationIdentifier": "GoogleChronicle",
@@ -31,8 +31,8 @@
             "IsMandatory": true,
             "Value": "https://backstory.googleapis.com",
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1771575192298,
-            "ModificationTimeUnixTimeInMs": 1771575192298
+            "CreationTimeUnixTimeInMs": 1772020777060,
+            "ModificationTimeUnixTimeInMs": 1772020777060
         },
         {
             "IntegrationIdentifier": "GoogleChronicle",
@@ -43,8 +43,8 @@
             "IsMandatory": false,
             "Value": null,
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1771575192298,
-            "ModificationTimeUnixTimeInMs": 1771575192298
+            "CreationTimeUnixTimeInMs": 1772020777060,
+            "ModificationTimeUnixTimeInMs": 1772020777060
         },
         {
             "IntegrationIdentifier": "GoogleChronicle",
@@ -55,8 +55,8 @@
             "IsMandatory": false,
             "Value": null,
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1771575192298,
-            "ModificationTimeUnixTimeInMs": 1771575192298
+            "CreationTimeUnixTimeInMs": 1772020777060,
+            "ModificationTimeUnixTimeInMs": 1772020777060
         },
         {
             "IntegrationIdentifier": "GoogleChronicle",
@@ -67,8 +67,8 @@
             "IsMandatory": false,
             "Value": "true",
             "Id": 0,
-            "CreationTimeUnixTimeInMs": 1771575192298,
-            "ModificationTimeUnixTimeInMs": 1771575192298
+            "CreationTimeUnixTimeInMs": 1772020777060,
+            "ModificationTimeUnixTimeInMs": 1772020777060
         }
     ],
     "IntegrationSupportedActions": [
@@ -76,162 +76,162 @@
             "Name": "Remove Values From Reference List",
             "Description": "Remove values from a reference list in Google Chronicle.",
             "Id": 12,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Remove Rows From Data Table",
             "Description": "Remove rows from a data table in Google SecOps. Note: this action only works with Chronicle API authentication. Backstory API is not supported.",
             "Id": 13,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Ping",
             "Description": "Test connectivity to the Google Chronicle with parameters provided at the integration configuration page on the Marketplace tab.",
             "Id": 14,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Add Values To Reference List",
             "Description": "Add values to a reference list in Google Chronicle.",
             "Id": 32,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Add Rows To Data Table",
             "Description": "Add rows to a data table in Google SecOps. Note: this action only works with Chronicle API authentication. Backstory API is not supported.",
             "Id": 33,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Lookup Similar Alerts",
             "Description": "Lookup similar alerts in Google Chronicle. Supported Chronicle alert types: RULE, EXTERNAL, IOC. Note: this action can only work with alerts that come from the \"Chronicle Alerts Connector\". Note: action can only fetch 10000 alerts. Make sure to narrow down the timeframe for better results.",
             "Id": 15,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "List IOCs",
             "Description": "List all of the IoCs discovered within your enterprise within the specified time range.",
             "Id": 16,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "List Events",
             "Description": "List events on the particular asset in the specified time frame. Supported entities: IP Address, Mac Address, Hostname. Note: action can only fetch 10000 events. Make sure to narrow down the timeframe for better results.",
             "Id": 17,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "List Assets",
             "Description": "List assets in Google Chronicle based on the related entities in the specified time frame. Supported entities: URL, IP Address, File hash. Only MD5, SHA-1 or SHA-256 hashes are supported.",
             "Id": 18,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Is Value In Reference List",
             "Description": "Check, if provided values are found in reference lists in Google Chronicle.",
             "Id": 19,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Is Value In Data Table",
             "Description": "Check, if provided values are found in the data table in Google SecOps. Note: this action only works with Chronicle API authentication. Backstory API is not supported.",
             "Id": 20,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Get Rule Details",
             "Description": "Fetch information about a rule in Google Chronicle.",
             "Id": 21,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Get Reference Lists",
             "Description": "Get available reference lists in Google Chronicle.",
             "Id": 22,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Get Detection Details",
             "Description": "Fetch information about a detection in Google Chronicle.",
             "Id": 23,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Get Data Tables",
             "Description": "Get available data tables in Google SecOps. Note: this action only works with Chronicle API authentication. Backstory API is not supported.",
             "Id": 24,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Generate UDM Query",
             "Description": "Preview. Use the Generate UDM Query action to construct complex UDM queries using natural language prompts in Google SecOps. Note: This action requires Chronicle API authentication. The legacy Backstory API authentication is not supported.",
             "Id": 25,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Add Entry To Watchlist",
             "Description": "Use the Add Entry To Watchlist action to add a specified entity to an existing Risk Analytics Watchlist in {{google_secops_name_short}}. Note: This action requires Chronicle API authentication. Legacy Backstory API authentication is not supported.",
             "Id": 34,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Execute UDM Query",
             "Description": "Execute custom UDM query in Google Chronicle. Note: 120 action executions are allowed per hour. Aggregated queries are supported only via Chronicle API configuration of integration.",
             "Id": 26,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Execute Retrohunt",
             "Description": "Execute a rule retrohunt in Google Chronicle.",
             "Id": 27,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Enrich IP",
             "Description": "Deprecated - Enrich IP entities using information from IOCs in Google Chronicle. Supported entities: IP address.",
             "Id": 28,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Enrich Entities",
             "Description": "Enrich entities using information from Google SecOps. Supported entities: File Hash, IP Address, Domain, Hostname, URL (extracts domain part of URL), User, Email (User entity with email regex). Note: this action only works with Chronicle API authentication. Backstory API is not supported.",
             "Id": 29,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Enrich Domain",
             "Description": "Deprecated - Enrich domains using information from IOCs in Google Chronicle. Supported entities: Hostname, URL (action extracts domain part).",
             "Id": 30,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         },
         {
             "Name": "Ask Gemini",
             "Description": "Preview. Ask Gemini in Google SecOps. For this action to work, you have to check the Automatic Opt-in parameter. Note: this action only works with Chronicle API authentication. Backstory API is not supported",
             "Id": 31,
-            "CreationTimeUnixTimeInMs": 1771575192315,
-            "ModificationTimeUnixTimeInMs": 1771575192315
+            "CreationTimeUnixTimeInMs": 1772020777071,
+            "ModificationTimeUnixTimeInMs": 1772020777071
         }
     ],
     "Categories": [
@@ -253,6 +253,6 @@
     "Type": 0,
     "Internal": false,
     "Id": 0,
-    "CreationTimeUnixTimeInMs": 1771575192298,
-    "ModificationTimeUnixTimeInMs": 1771575192298
+    "CreationTimeUnixTimeInMs": 1772020777060,
+    "ModificationTimeUnixTimeInMs": 1772020777060
 }
