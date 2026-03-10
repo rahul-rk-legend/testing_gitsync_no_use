@@ -28,7 +28,6 @@
 ### Involved Steps (Unordered)
 |Step Name|Description|Integration|Original Action|
 |---------|-----------|-----------|---------------|
-|Siemplify_Case Comment_1|Add a comment to the case the current alert has been grouped to|Siemplify|Case Comment|
 
 ### Involved Blocks
 |Name|Description|
