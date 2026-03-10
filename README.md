@@ -22,6 +22,7 @@
 |New Block|An embedded workflow that can receive inputs and return an output.|
 |New Playbook||
 |New Playbook 1||
+|New Playbook 11||
 |New Playbook ng||
 |Push Playbook Block 1|An embedded workflow that can receive inputs and return an output.|
 |New Block 2|An embedded workflow that can receive inputs and return an output.|
