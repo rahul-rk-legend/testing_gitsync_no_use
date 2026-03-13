@@ -1,19 +1,18 @@
 [
     {
-        "id": 1,
-        "name": "Testing Dynamic 1",
-        "type": 0,
-        "defaultValue": "Testing Dynamic 1",
-        "optionalValues": []
+        "name": "projects/project/locations/location/instances/instance/dynamicParameters/2",
+        "id": 2,
+        "displayName": "Dynamic 2",
+        "parameterType": "List",
+        "defaultValue": "Dynamic 2",
+        "optionalValuesJson": "[\"Dynamic 1\",\"Dynamic 2\"]"
     },
     {
-        "id": 2,
-        "name": "Testing Dynamic 2",
-        "type": 1,
-        "defaultValue": "Testing Dynamic 2",
-        "optionalValues": [
-            "Testing Dynamic 1",
-            "Testing Dynamic 2"
-        ]
+        "name": "projects/project/locations/location/instances/instance/dynamicParameters/1",
+        "id": 1,
+        "displayName": "Dynamic 1",
+        "parameterType": "String",
+        "defaultValue": "Dynamic 1",
+        "optionalValuesJson": "[]"
     }
 ]
