@@ -1,14 +1,9 @@
 [
     {
-        "entityIdentifier": "Testing",
-        "category": "Domain",
-        "forDBMigration": false,
-        "environments": [
-            "B",
-            "A"
-        ],
         "id": 1,
-        "creationTimeUnixTimeInMs": 1771590534812,
-        "modificationTimeUnixTimeInMs": 1771590534812
+        "name": "projects/project/locations/location/instances/instance/customLists/1",
+        "category": "Domain",
+        "entityIdentifier": "Podman_1p_Cisutom_list_10",
+        "environments": "[\"*\"]"
     }
 ]
