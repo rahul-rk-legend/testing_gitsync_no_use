@@ -1,1 +1,57 @@
-{}
+{
+    "soar_block_entities": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podmna_Block_36",
+            "entityType": "DestinationURL",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_38",
+            "entityType": "HOSTNAME",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"D\",\"C_1P_Podman\"]"
+        }
+    ],
+    "items": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podmna_Block_36",
+            "entityType": "DestinationURL",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_38",
+            "entityType": "HOSTNAME",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"D\",\"C_1P_Podman\"]"
+        }
+    ],
+    "soarBlockEntities": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podmna_Block_36",
+            "entityType": "DestinationURL",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_38",
+            "entityType": "HOSTNAME",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"D\",\"C_1P_Podman\"]"
+        }
+    ],
+    "totalSize": 2
+}
