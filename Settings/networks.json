@@ -1,14 +1,10 @@
 [
     {
-        "address": "192.168.0.1/16",
-        "name": "Testing",
-        "priority": 2,
-        "environments": [
-            "C",
-            "B"
-        ],
+        "name": "projects/project/locations/location/instances/instance/soarNetworks/1",
         "id": 1,
-        "creationTimeUnixTimeInMs": 1771590416193,
-        "modificationTimeUnixTimeInMs": 1771590416193
+        "displayName": "Podman_1P_networks_6",
+        "address": "192.168.0.1/32",
+        "environmentsJson": "[\"C_1P_Podman\",\"B_1P_Podman\",\"A_1P_Podman\"]",
+        "priority": 4
     }
 ]
