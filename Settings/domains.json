@@ -1,23 +1,10 @@
 [
     {
-        "alias": null,
+        "alias": "projects/project/locations/location/instances/instance/soarDomains/1",
         "id": 1,
-        "domain": "Testing",
-        "environments": [
-            "C",
-            "A"
-        ],
-        "creationTimeUnixTimeInMs": 1771590467083,
-        "modificationTimeUnixTimeInMs": 1771590467083
-    },
-    {
-        "alias": null,
-        "id": 2,
-        "domain": "Testing 1",
-        "environments": [
-            "*"
-        ],
-        "creationTimeUnixTimeInMs": 1771590473858,
-        "modificationTimeUnixTimeInMs": 1771590473858
+        "domain": "Podman_1p_domain_6",
+        "environments": "[\"C_1P_Podman\",\"B_1P_Podman\",\"A_1P_Podman\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
     }
 ]
