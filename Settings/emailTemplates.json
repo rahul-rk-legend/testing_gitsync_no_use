@@ -1,16 +1,11 @@
 [
     {
-        "type": 0,
-        "name": "Testing",
-        "content": "Testing ",
-        "creatorUserName": "89f0bb7e-1996-4922-a989-874601fb6ac7",
-        "forMigration": false,
-        "environments": [
-            "C",
-            "B"
-        ],
+        "name": "projects/project/locations/location/instances/instance/emailTemplates/1",
+        "templateType": "Template",
+        "author": "4940a2c0-7cbc-4b2c-b1b2-a2d636816991",
         "id": 1,
-        "creationTimeUnixTimeInMs": 1771590609271,
-        "modificationTimeUnixTimeInMs": 1771590609271
+        "content": "Subject: Follow-up: [Topic or Project Name]\nHi [Name],\nI hope you\u2019re having a productive week.\nI\u2019m following up on our recent discussion regarding [topic]. I wanted to see if you had any updates or if there\u2019s any additional information I can provide to help move things forward.\nLooking forward to hearing from you.\nBest regards,\n[Your Name]",
+        "displayName": "Podman_1p_Emial_templates_8",
+        "environments": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
     }
 ]
