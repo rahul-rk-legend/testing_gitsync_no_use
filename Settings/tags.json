@@ -1,28 +1,60 @@
 [
     {
-        "value": "Windows:AccessDisabledAccounts",
-        "name": "Tag 1",
-        "propertyName": "",
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/7",
+        "id": 7,
+        "displayName": "Podman_1P_Case_Tag_8",
+        "matchCriteria": "DataDriven",
+        "comparisonType": "Exact",
         "priority": 1,
-        "isPotentialCaseName": false,
-        "environments": [],
-        "type": 1,
-        "compareType": 2,
-        "id": 3,
-        "creationTimeUnixTimeInMs": 1771589794147,
-        "modificationTimeUnixTimeInMs": 1771589794147
+        "canBeCaseTitle": false
     },
     {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/6",
+        "id": 6,
+        "displayName": "Podman_1P_Tag_2",
+        "matchCriteria": "ByProduct",
         "value": "Phishing email detector",
-        "name": "Tag 2",
         "propertyName": "",
+        "comparisonType": "Exact",
+        "priority": 4,
+        "canBeCaseTitle": true
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/5",
+        "id": 5,
+        "displayName": "Podman_1P_Case_Tag_1",
+        "matchCriteria": "ByEntityPropertyName",
+        "value": "Phishing email detector",
+        "propertyName": "Entity.Environment",
+        "comparisonType": "Contain",
         "priority": 1,
-        "isPotentialCaseName": false,
-        "environments": [],
-        "type": 0,
-        "compareType": 2,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/4",
         "id": 4,
-        "creationTimeUnixTimeInMs": 1771589854916,
-        "modificationTimeUnixTimeInMs": 1771589854916
+        "displayName": "Tag 8",
+        "matchCriteria": "DataDriven",
+        "comparisonType": "Exact",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/3",
+        "id": 3,
+        "displayName": "Tag 7",
+        "matchCriteria": "DataDriven",
+        "comparisonType": "Exact",
+        "priority": 1,
+        "canBeCaseTitle": false
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/caseTagDefinitions/1",
+        "id": 1,
+        "displayName": "Simulated Case",
+        "matchCriteria": "System",
+        "comparisonType": "Exact",
+        "priority": 1,
+        "canBeCaseTitle": false
     }
 ]
