@@ -1,18 +1,17 @@
 [
     {
+        "name": "projects/project/locations/location/instances/instance/slaDefinitions/1",
         "id": 1,
-        "valueType": 2,
-        "value": "",
-        "slaPeriodType": 2,
-        "slaPeriod": 3.0,
-        "criticalPeriodType": 2,
-        "criticalPeriod": 2.0,
+        "slaType": "CaseStage",
+        "slaTypeValue": "[\"Improvement\",\"Triage\",\"Investigation\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Hours",
+        "criticalSlaPeriod": 5.0,
+        "criticalSlaPeriodTimeUnit": "Minutes",
         "environments": [
-            "*"
-        ],
-        "alertType": 0,
-        "values": [
-            ""
+            "C_1P_Podman",
+            "B_1P_Podman",
+            "A_1P_Podman"
         ]
     }
 ]
