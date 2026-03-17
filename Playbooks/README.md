@@ -7,6 +7,7 @@
 |New Playbook 1|Default||
 |New Playbook 11|Default||
 |New Playbook 111|Default||
+|New Playbook NG|Default||
 |New Playbook ng|Default||
 |New Playbook s3|Default||
 |Push Playbook Block 1|Default|An embedded workflow that can receive inputs and return an output.|
