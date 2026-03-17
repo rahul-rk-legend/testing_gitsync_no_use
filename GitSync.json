@@ -15,7 +15,9 @@
             "Push Playbook Block 1": "adding a read me on"
         },
         "Connector": {},
-        "Job": {}
+        "Job": {
+            "projects/project/locations/location/instances/instance/integrations/SampleIntegration/jobs/26/jobInstances/6": "Adding a readme on"
+        }
     },
     "settings": {
         "update_root_readme": true
