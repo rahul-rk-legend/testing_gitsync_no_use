@@ -30,12 +30,14 @@
 |New Playbook ng||
 |New Playbook s3||
 |Playbook 2||
+|Playbook 4||
 |Push Playbook Block 1|An embedded workflow that can receive inputs and return an output.|
 |New Block 2|An embedded workflow that can receive inputs and return an output.|
 |New Playbook 1||
 |Push Playbook 1||
 |New Playbook||
 |Playbook 1||
+|Playbook 3||
 |Podman 1P 1||
 |Playbook Podman2P||
 
