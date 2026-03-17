@@ -3,7 +3,9 @@
     "readme_addons": {
         "Integration": {},
         "Mappings": {},
-        "Visual Family": {},
+        "Visual Family": {
+            "Podman_1P_Visual_Families_100": "Adding a readme on"
+        },
         "Playbook": {
             "New Block": "adding a read me on",
             "New Block 2": "adding a read me on",
