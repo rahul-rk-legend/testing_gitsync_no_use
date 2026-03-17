@@ -11,6 +11,7 @@
 |New Playbook NG1|Default||
 |New Playbook ng|Default||
 |New Playbook s3|Default||
+|Playbook 2|Default||
 |Push Playbook Block 1|Default|An embedded workflow that can receive inputs and return an output.|
 |New Block 2|Folder|An embedded workflow that can receive inputs and return an output.|
 |New Playbook 1|Folder||
