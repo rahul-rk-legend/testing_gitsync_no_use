@@ -32,5 +32,5 @@
 ### Involved Blocks
 |Name|Description|
 |----|-----------|
-|New Block|An embedded workflow that can receive inputs and return an output.|
+|NG New Block|An embedded workflow that can receive inputs and return an output.|
 adding a read me on
