@@ -16,7 +16,8 @@
         },
         "Connector": {},
         "Job": {
-            "projects/project/locations/location/instances/instance/integrations/SampleIntegration/jobs/26/jobInstances/6": "Adding a readme on"
+            "projects/project/locations/location/instances/instance/integrations/SampleIntegration/jobs/26/jobInstances/6": "Adding a readme on",
+            "projects/project/locations/location/instances/instance/integrations/GoogleChronicle/jobs/1/jobInstances/8": "Adding a readme on"
         }
     },
     "settings": {
