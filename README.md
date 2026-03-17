@@ -28,6 +28,7 @@
 |New Playbook 11||
 |New Playbook 111||
 |New Playbook NG||
+|New Playbook NG1||
 |New Playbook ng||
 |New Playbook s3||
 |Push Playbook Block 1|An embedded workflow that can receive inputs and return an output.|
