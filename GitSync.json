@@ -2,7 +2,9 @@
     "system_version": "6.1.6.164",
     "readme_addons": {
         "Integration": {},
-        "Mappings": {},
+        "Mappings": {
+            "null": "Adding a read meon"
+        },
         "Visual Family": {
             "Podman_1P_Visual_Families_100": "Adding a readme on"
         },

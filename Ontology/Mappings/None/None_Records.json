@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "source": "SampleIntegration",
+        "familyName": "Default",
+        "familyId": 0,
+        "product": null,
+        "eventName": null,
+        "mappingStatus": null,
+        "changeSource": "ChangeSourceUnspecified",
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "SampleIntegration",
+        "familyName": "Default",
+        "familyId": 0,
+        "product": "Exchange",
+        "eventName": "USD",
+        "mappingStatus": null,
+        "changeSource": "IngestedAlert",
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "SampleIntegration",
+        "familyName": "Default",
+        "familyId": 0,
+        "product": "Exchange",
+        "eventName": "EUR",
+        "mappingStatus": null,
+        "changeSource": "IngestedAlert",
+        "exampleEventFields": []
+    }
+]
