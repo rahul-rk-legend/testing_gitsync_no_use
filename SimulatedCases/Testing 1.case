@@ -8,8 +8,8 @@
                         "baseEventIds": [],
                         "parentEventId": 0,
                         "deviceEventClassId": "Testing 1",
-                        "startTime": "1771591218476",
-                        "endTime": "1771591218476",
+                        "startTime": "1773735780416",
+                        "endTime": "1773735780416",
                         "deviceProduct": "Testing 1"
                     },
                     "_rawDataFields": {
@@ -32,8 +32,8 @@
             "name": "Testing 1",
             "deviceVendor": "Testing 1",
             "deviceProduct": "Testing 1",
-            "startTime": 1771591218476,
-            "endTime": 1771591218476,
+            "startTime": 1773735780416,
+            "endTime": 1773735780416,
             "type": 0,
             "priority": -1,
             "ruleGenerator": "Testing 1",
