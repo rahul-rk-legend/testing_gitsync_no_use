@@ -4,6 +4,7 @@
 |Default 1|Default||
 |NGBlock|Default||
 |NGBlock1|Default||
+|NGBlock2|Default||
 |NGP10|Default||
 |NGP6|Default||
 |NGP7|Default||
