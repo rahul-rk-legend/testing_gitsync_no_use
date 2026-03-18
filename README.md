@@ -20,6 +20,7 @@
 |Name|Description|
 |----|-----------|
 |Default 1||
+|NGP6||
 |New Block|An embedded workflow that can receive inputs and return an output.|
 |New Playbook||
 |New Playbook 1||

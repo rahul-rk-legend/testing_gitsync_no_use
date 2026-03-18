@@ -2,6 +2,7 @@
 |Name|Folder|Description|
 |----|------|-----------|
 |Default 1|Default||
+|NGP6|Default||
 |New Block|Default|An embedded workflow that can receive inputs and return an output.|
 |New Playbook|Default||
 |New Playbook 1|Default||
