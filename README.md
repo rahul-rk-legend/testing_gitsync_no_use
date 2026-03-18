@@ -28,6 +28,7 @@
 |New Playbook NG||
 |New Playbook NG1||
 |New Playbook NG3||
+|New Playbook NG5||
 |New Playbook ng||
 |New Playbook s3||
 |Playbook 2||
