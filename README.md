@@ -27,6 +27,7 @@
 |New Playbook 111||
 |New Playbook NG||
 |New Playbook NG1||
+|New Playbook NG3||
 |New Playbook ng||
 |New Playbook s3||
 |Playbook 2||

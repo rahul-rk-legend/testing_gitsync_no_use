@@ -9,6 +9,7 @@
 |New Playbook 111|Default||
 |New Playbook NG|Default||
 |New Playbook NG1|Default||
+|New Playbook NG3|Default||
 |New Playbook ng|Default||
 |New Playbook s3|Default||
 |Playbook 2|Default||
