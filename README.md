@@ -21,6 +21,7 @@
 |----|-----------|
 |Default 1||
 |NGBlock||
+|NGBlock1||
 |NGP10||
 |NGP6||
 |NGP7||
